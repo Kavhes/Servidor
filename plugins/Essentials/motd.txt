@@ -1,0 +1,8 @@
+
+
+--------------------
+&bBienvenido a MineNet!
+&bGracias por elegirnos!
+--------------------
+&7Server powered by:
+  &eVenNet

@@ -1,0 +1,103 @@
+groups:
+  Usuario:
+    permissions:
+    - essentials.msg
+    - essentials.spawn
+    - authme.player.*
+    - modifyworld.*
+    options:
+      prefix: '&f[&b&lUsuario&f]'
+      default: true
+  Youtuber:
+    inheritance:
+    - Usuario
+    permissions:
+    - essentials.fly
+    options:
+      prefix: '[&4&lY&f&lT&f] &c&l'
+  FamosoYT:
+    inheritance:
+    - Usuario
+    - Youtuber
+    permissions:
+    - essentials.msg
+    options:
+      prefix: '&4&lY&f&lT&a&l+ &a&l'
+  Perritos:
+    inheritance:
+    - Usuario
+    - Youtuber
+    permissions:
+    - essentials.msg
+    options:
+      prefix: '&e&lPerritos &a&l'
+  Vip:
+    inheritance:
+    - Usuario
+    - Youtuber
+    - FamosoYT
+    permissions:
+    - essentials.spawn
+    options:
+      prefix: '&a&lVIP &a&l'
+  Helper:
+    inheritance:
+    - Usuario
+    - Youtuber
+    - FamosoYT
+    - Vip
+    permissions:
+    - essentials.chat.color
+    options:
+      prefix: '&f&lHelper &f&l'
+  Builder:
+    inheritance:
+    - Usuario
+    - Youtuber
+    - FamosoYT
+    - Vip
+    - Helper
+    permissions:
+    - essentials.nick.color
+    options:
+      prefix: '&6&lBuilder &6&l'
+  Mod:
+    inheritance:
+    - Usuario
+    - Youtuber
+    - FamosoYT
+    - Vip
+    - Helper
+    - Builder
+    permissions:
+    - essentials.nick
+    options:
+      prefix: '&7&lMOD &7&l'
+  Admin:
+    inheritance:
+    - Usuario
+    - Youtuber
+    - FamosoYT
+    - Vip
+    - Helper
+    - Builder
+    - Mod
+    permissions:
+    - essentials.gamemode.*
+    options:
+      prefix: '&c&lADMIN &c&l'
+  Creador:
+    options:
+      prefix: '&c&lCreador &4&l&n'
+    permissions:
+    - '*'
+    - modifyworld.*
+    - void2spawn.tp
+schema-version: 1
+users:
+  1af204a6-0341-34e6-a57c-738d7612f17c:
+    options:
+      group: Creador
+      name: Kavhes
+    group:
+    - Creador

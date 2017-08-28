@@ -1,0 +1,145 @@
+[02:42:50] [Server thread/INFO]: Starting minecraft server version 1.11
+[02:42:50] [Server thread/INFO]: Loading properties
+[02:42:50] [Server thread/INFO]: Default game type: SURVIVAL
+[02:42:50] [Server thread/INFO]: Generating keypair
+[02:42:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:42:50] [Server thread/INFO]: Using default channel type
+[02:42:52] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0a81101 (MC: 1.11) (Implementing API version 1.11-R0.1-SNAPSHOT)
+[02:42:53] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[02:42:53] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[02:42:53] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.5;4651611
+[02:42:53] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[02:42:53] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-b727
+[02:42:53] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.1;84bc322
+[02:42:53] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.21-SNAPSHOT (build 1463)
+[02:42:53] [Server thread/INFO]: [CommandNPC] Loading CommandNPC v1.8.9
+[02:42:53] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b488
+[02:42:53] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[02:42:53] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[02:42:53] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[02:42:53] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[02:42:53] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[02:42:53] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[02:42:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:42:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:42:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:42:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:42:53] [Server thread/INFO]: Preparing level "world"
+[02:42:54] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1860129172020500871)
+[02:42:55] [Server thread/INFO]: Preparing spawn area: 5%
+[02:42:56] [Server thread/INFO]: Preparing spawn area: 22%
+[02:42:57] [Server thread/INFO]: Preparing spawn area: 51%
+[02:42:58] [Server thread/INFO]: Preparing spawn area: 90%
+[02:42:58] [Server thread/INFO]: Preparing start region for level 1 (Seed: -1971636902903895112)
+[02:42:59] [Server thread/INFO]: Preparing spawn area: 2%
+[02:43:01] [Server thread/INFO]: Preparing spawn area: 48%
+[02:43:02] [Server thread/INFO]: Preparing spawn area: 83%
+[02:43:02] [Server thread/INFO]: Preparing start region for level 2 (Seed: -1971636902903895112)
+[02:43:02] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[02:43:02] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[02:43:02] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[02:43:03] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[02:43:03] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[02:43:03] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.5;4651611
+[02:43:03] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[02:43:03] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_11_R1 as the Bukkit adapter
+[02:43:03] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-b727
+[02:43:04] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: MineNet_the_end
+[02:43:04] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[02:43:04] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: MineNet
+[02:43:04] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[02:43:04] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: MineNet_nether
+[02:43:04] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[02:43:04] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[02:43:04] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[02:43:04] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.1;84bc322
+[02:43:04] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[02:43:04] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[02:43:04] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[02:43:04] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[02:43:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[02:43:04] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[02:43:04] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[02:43:04] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[02:43:04] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[02:43:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[02:43:04] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[02:43:04] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[02:43:04] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[02:43:04] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[02:43:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[02:43:04] [Server thread/INFO]: [WorldGuard] Loading region data...
+[02:43:05] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.21-SNAPSHOT (build 1463)
+[02:43:05] [Server thread/INFO]: [CommandNPC] Enabling CommandNPC v1.8.9
+[02:43:05] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mVault compatible economy found! Economy support for CommandNPC has been enabled.[m
+[02:43:05] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mInitiating Database[m
+[02:43:05] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mInjecting command info into Citizens.[m
+[02:43:05] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mCommandNPC successfully loaded![m
+[02:43:05] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b488
+[02:43:06] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[02:43:06] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[02:43:06] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[02:43:06] [Server thread/INFO]: Using locale es_ES
+[02:43:06] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[02:43:06] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[02:43:06] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
+[02:43:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:43:07] [Server thread/INFO]: Done (13,405s)! For help, type "help" or "?"
+[02:43:07] [Server thread/INFO]: [Citizens] Cargando a 0 NPCs.
+[02:43:07] [pool-3-thread-7/INFO]: [Vault] Checking for Updates ... 
+[02:43:11] [pool-3-thread-7/INFO]: [Vault] No new version available
+[06:47:53] [Server thread/INFO]: Kavhes[/25.95.119.52:27150] logged in with entity id 49 at ([world]162.71669299529202, 103.15693337695735, 201.0673766366073)
+[06:47:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4267ms behind, skipping 85 tick(s)
+[06:48:07] [Netty Server IO #2/INFO]: <Kavhes> asdasda[m
+[06:48:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10423ms behind, skipping 208 tick(s)
+[06:55:43] [Netty Server IO #2/INFO]: <Kavhes> adadasda[m
+[06:57:22] [Server thread/INFO]: Kavhes issued server command: /spawnset
+[06:57:28] [Server thread/INFO]: Kavhes issued server command: /setspawn
+[06:57:31] [Server thread/INFO]: Kavhes issued server command: /
+[06:57:34] [Server thread/INFO]: Kavhes issued server command: /help
+[06:57:38] [Server thread/INFO]: Kavhes issued server command: /help 2
+[06:57:44] [Server thread/INFO]: Kavhes issued server command: /help 3
+[06:57:57] [Server thread/INFO]: Kavhes issued server command: /help 4
+[06:58:06] [Server thread/INFO]: Kavhes issued server command: /help 5
+[06:58:12] [Server thread/INFO]: Kavhes issued server command: /help 6
+[06:58:18] [Server thread/INFO]: Kavhes issued server command: /help 7
+[06:58:26] [Server thread/INFO]: Kavhes issued server command: /help 8
+[06:58:38] [Server thread/INFO]: Kavhes issued server command: /help 9
+[06:58:53] [Server thread/INFO]: Kavhes issued server command: /help 10
+[06:59:08] [Server thread/INFO]: Kavhes issued server command: /help 11
+[06:59:24] [Server thread/INFO]: Kavhes issued server command: /help 12
+[06:59:30] [Server thread/INFO]: Kavhes issued server command: /help 13
+[06:59:42] [Server thread/INFO]: Kavhes issued server command: /help 14
+[06:59:57] [Server thread/INFO]: Kavhes issued server command: /help 15
+[07:00:03] [Server thread/INFO]: Kavhes issued server command: /help 16
+[07:00:23] [Server thread/INFO]: Kavhes issued server command: /help 17
+[07:00:38] [Server thread/INFO]: Kavhes issued server command: /help 19
+[07:01:05] [Server thread/INFO]: Kavhes issued server command: /help 20
+[07:01:09] [Server thread/INFO]: Kavhes issued server command: /help 21
+[07:01:25] [Server thread/INFO]: Kavhes issued server command: /help 22
+[07:03:09] [Server thread/INFO]: Kavhes issued server command: /createwarp
+[07:03:14] [Server thread/INFO]: Kavhes issued server command: /createwarp Spawn
+[07:03:14] [pool-19-thread-1/INFO]: Creando configuración vacía: C:\Users\Kavhes\Desktop\plugins\Server\plugins\Essentials\warps\spawn.yml
+[07:03:20] [Server thread/INFO]: Kavhes issued server command: /createspawn
+[07:03:24] [Server thread/INFO]: Kavhes issued server command: /spawn
+[07:03:30] [Server thread/INFO]: Kavhes issued server command: /warp spawn
+[07:03:46] [Server thread/INFO]: Kavhes issued server command: /warp spawn
+[07:05:18] [Server thread/INFO]: Kavhes lost connection: Disconnected
+[07:05:18] [Server thread/INFO]: Kavhes left the game
+[07:05:29] [Server thread/INFO]: Stopping the server
+[07:05:29] [Server thread/INFO]: Stopping server
+[07:05:29] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b488
+[07:05:29] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[07:05:29] [Server thread/INFO]: [CommandNPC] Disabling CommandNPC v1.8.9
+[07:05:29] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.21-SNAPSHOT (build 1463)
+[07:05:29] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.2.1;84bc322
+[07:05:29] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[07:05:29] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-b727
+[07:05:29] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[07:05:29] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.5;4651611
+[07:05:29] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[07:05:29] [Server thread/INFO]: Saving players
+[07:05:30] [Server thread/INFO]: Saving worlds
+[07:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[07:05:30] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[07:05:30] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
